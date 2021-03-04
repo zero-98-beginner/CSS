@@ -104,9 +104,7 @@ a:hover{
     width:200px;
     height: 200px;
 }
-.first-skil-descp{
-   
-}
+
 .second-skil-descp{
     margin-left:20px;
 }
@@ -117,7 +115,7 @@ a:hover{
 }
 .btn {
 	border: 2px dashed #11999E;
-    font family:'Montserrat', sans-serif;
+    font-family:'Montserrat', sans-serif;
 	
     
 }
